@@ -14,7 +14,7 @@ console.log('Ваш ответ ' + addition);
 alert('Правильный ответ 63');
 
 var subtraction = +prompt('Напишите правильный ответ 60 - 3 = ?');
-console.log('Ваш ответ ' + substraction);
+console.log('Ваш ответ ' + subtraction);
 alert('Правильный ответ 57');
 
 var multiplication = +prompt('Напишите правильный ответ 60 * 3 = ?');
